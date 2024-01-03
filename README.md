@@ -1,1 +1,1 @@
-# Ski-race-Management
+This repository contains code for managing a ski race, allowing users to input participant information, track race times for two rounds, categorize racers based on their performance, and perform various analyses on the data.
